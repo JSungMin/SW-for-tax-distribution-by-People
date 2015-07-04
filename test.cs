@@ -8,6 +8,8 @@ public class test : MonoBehaviour {
 		Debug.Log ("Test");
 	}
 	
+    //git sync test
+
 	// Update is called once per frame
 	void Update () {
 	
